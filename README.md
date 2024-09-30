@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/haiduh/haiduh/main/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/haiduh/haiduh/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
