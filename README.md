@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/syed-rayaan-haider-5b3b20249/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/your_discord_id_here" target="_blank">
+  <a href="haiduh." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-![snake animation](https://raw.githubusercontent.com/haiduh/haiduh/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 ###
 
