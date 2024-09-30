@@ -2,17 +2,17 @@
 
 ###
 
-- 🌱 I’m currently learning **LLM's and AI models**
+- 🌱 I’m currently learning: **LLM's and AI models**
 
-- 👯 I’m looking to collaborate on **AI relate projects**
+- 👯 I’m looking to collaborate on: **AI relate projects**
 
-- 🤝 I’m looking for help with **Cloud and Artificial Intelligence**
+- 🤝 I’m looking for help with: **Cloud and Artificial Intelligence**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about: **Artificial Intelligence**
 
-- 📫 How to reach me **rayaanhaider04@hotmail.com**
+- 📫 How to reach me: **rayaanhaider04@hotmail.com**
 
-- ⚡ Fun fact **I love to explore new ideas and love new challenges.**
+- ⚡ Fun fact: **I love to explore new ideas and love new challenges.**
 
 ###
 
