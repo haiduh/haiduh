@@ -13,6 +13,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/haiduh/count.svg?"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://ani-github.github.io/animegifs/full-metal-alchemist/AWESOME.gif"  />
 
 ###
@@ -66,12 +72,6 @@
 
 <div align="center">
   <img src="https://github.com/haiduh/haiduh/blob/output/github-contribution-grid-snake2.svg" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/haiduh/count.svg?"  />
 </div>
 
 ###
