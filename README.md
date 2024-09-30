@@ -64,8 +64,9 @@
 
 ###
 
-![snake animation](https://github.com/haiduh/haiduh/blob/output/github-contribution-grid-snake2.svg)
-
+<div align="center">
+  <img src="https://github.com/haiduh/haiduh/blob/output/github-contribution-grid-snake2.svg" />
+</div>
 
 ###
 
