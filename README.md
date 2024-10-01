@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/haiduh/haiduh/blob/output/github-contribution-grid-snake2.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/haiduh/haiduh/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ###
