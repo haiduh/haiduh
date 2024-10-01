@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rayaan Haider, a software engineer studying Artificial Intelligence.</h2>
+<h2 align="left">Hi 👋! My name is Rayaan Haider, a software engineer passionate about studying AI.</h2>
 
 ###
 
