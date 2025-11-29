@@ -1,98 +1,62 @@
-<h2 align="left">Hi 👋! My name is Syed Rayaan Haider, a software engineer passionate about studying AI.</h2>
+<h1 align="center">Syed Rayaan Haider</h1>
+<h3 align="center">Software Engineer · Artificial Intelligence · Full-Stack Development</h3>
 
-###
-
-- 🌱 I’m currently learning: **LLM's and AI models**
-
-- 👯 I’m looking to collaborate on: **AI relate projects**
-
-- 🤝 I’m looking for help with: **Cloud and Artificial Intelligence**
-
-- 💬 Ask me about: **Artificial Intelligence**
-
-- 📫 How to reach me: **rayaanhaider04@hotmail.com**
-
-- ⚡ Fun fact: **I love to explore new ideas and love new challenges.**
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/haiduh/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haiduh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haiduh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://ani-github.github.io/animegifs/full-metal-alchemist/AWESOME.gif"  />
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/syed-rayaan-haider-5b3b20249/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/syed-rayaan-haider-5b3b20249" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin:0 25px;" />
   </a>
-  <a href="haiduh." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://github.com/haiduh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="margin:0 25px;" />
   </a>
-</div>
+  <a href="mailto:rayaanhaider04@hotmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" style="margin:0 25px;" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/haiduh/haiduh/output/github-contribution-grid-snake-dark.svg" />
-</div>
+## 🚀 About Me  
+Software Engineer specialising in **AI systems, full-stack development, and scalable backend architecture**.  
+I focus on **AI-driven applications**, high-performance systems, and developer-friendly tools.
 
-###
+---
+
+## 🛠 Tech Stack  
+**Languages:** Python, Java, JavaScript/TypeScript, SQL  
+**Frameworks & Tools:** React, Node.js, Spring Boot, Electron, PostgreSQL, Docker, AWS  
+**AI:** RAG, NLP, LangChain, OpenAI API, ML pipelines  
+
+---
+
+## 📌 Featured Projects  
+
+### 🎮 **AI Game Assistant (FYP)**  
+Real-time RAG-powered in-game assistant with an Electron overlay and modular datasets.
+
+### 🧠 **AI Strategy Platform (LevareAI)**  
+Full-stack + AI integrations using React, Node.js, PostgreSQL, and AWS microservices.
+
+### 🤖 **Smart Roaming Robot**  
+Autonomous Raspberry Pi robot with real-time obstacle avoidance.
+
+*(More in pinned repos →)*
+
+---
+
+## 📈 GitHub Analytics  
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haiduh/haiduh/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+### 📊 Activity Overview  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haiduh&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect  
+Open to collaborations in **AI, full-stack development, and developer tooling**.  
+Feel free to reach out via LinkedIn, GitHub, or Email.
