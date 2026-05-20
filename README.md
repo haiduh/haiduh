@@ -34,7 +34,7 @@ I focus on **AI-driven applications**, high-performance systems, and developer-f
 Real-time RAG-powered in-game assistant with an Electron overlay and modular datasets.
 
 ### 🧠 **AI Strategy Platform (LevareAI)**  
-Full-stack + AI integrations using React, Node.js, PostgreSQL, and AWS microservices.
+Full-stack + AI integrations using React, Python, PostgreSQL, and AWS microservices.
 
 ### 🤖 **Smart Roaming Robot**  
 Autonomous Raspberry Pi robot with real-time obstacle avoidance.
