@@ -39,6 +39,9 @@ Full-stack + AI integrations using React, Python, PostgreSQL, and AWS microservi
 ### 🤖 **Smart Roaming Robot**  
 Autonomous Raspberry Pi robot with real-time obstacle avoidance.
 
+### 🔍 **proc-monitor**
+Zero-dependency Linux system monitor that reads directly from `/proc` — built for homelab use.
+
 *(More in pinned repos →)*
 
 ---
